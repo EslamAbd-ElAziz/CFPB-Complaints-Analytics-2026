@@ -127,10 +127,11 @@ The Power BI report is built on the star schema and contains five pages:
 | 3 | Mohamed Nabil | Python Data Analyst — Data Cleaning and Exploratory Analysis |
 | 4 | Maram Hamdey | SQL Analyst — KPIs, Queries, and Views |
 | 5 | Sahar Mahmoud & Mahmoud Abdelaal | BI Developer — Power BI and Tableau |
+
 ### Completed Work
-
 - **Data Collection, Cleaning, and SQL Warehouse:** Eslam Magdy and Mohamed Nabil
-
+- **SQL Analyst, KPIs, Queries, and Views:** Maram Hamdey
+  
 ### Role Details
 
 - **Team Lead:** Plans tasks and deadlines, builds the Power BI data model and measures, reviews team deliverables, manages the GitHub repository, and coordinates the final presentation.
